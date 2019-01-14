@@ -1,1 +1,0 @@
-{"sver":"2.1","lver":"2.0","url":"https://raw.githubusercontent.com/AndBird/Demo/master/ImageDensity.apk","des":"更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试更新测试q"}
